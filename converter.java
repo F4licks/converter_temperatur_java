@@ -23,7 +23,6 @@ public class converter {
                 break;
             default:
                 System.out.println("Вы выбрали не существующий вариант");
-                System.out.println("Как блять?");
         }
     }
 }
